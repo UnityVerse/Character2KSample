@@ -1,0 +1,32 @@
+{
+    "name": "Modules.Extensions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:a953053e80bb4f599f6a51d42532f103",
+        "GUID:f06f28e7a0d24ff18d1b4e4acec49d4d",
+        "GUID:daae1ddd35d0442cbfb46cefc4b0d286",
+        "GUID:3fd8322ad0766437aa485fcad361d65c",
+        "GUID:d75f2d58703cb4dfdaf9412d773db7e5",
+        "GUID:4c25c05f410a3a447a75c3b0909152ef",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:0e2ae32f4fbf469fac3902ce24774b46",
+        "GUID:2518b66ed6d9a4644b5c6292bf3cae65",
+        "GUID:8fb621b903cf414faece0f643f0b0256",
+        "GUID:ec933d93449a42ea9dd242816ccc36d6",
+        "GUID:7efecab02c114e5db5c6fb2410153b7e",
+        "GUID:b051b84f8b68460d9199c8d9555c0be9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

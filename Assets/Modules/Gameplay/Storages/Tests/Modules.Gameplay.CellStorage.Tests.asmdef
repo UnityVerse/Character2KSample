@@ -1,0 +1,23 @@
+{
+    "name": "Modules.Gameplay.ItemDictionaryTests",
+    "rootNamespace": "Modules.Gameplay",
+    "references": [
+        "GUID:4a2389f444254ec1a9df89ffd5a67785",
+        "GUID:0acc523941302664db1f4e527237feb3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

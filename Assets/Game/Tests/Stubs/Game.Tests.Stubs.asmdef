@@ -1,0 +1,20 @@
+{
+    "name": "Game.Tests.Stubs",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4f1a9a4c4decb4f2da4ee377cfed04bf",
+        "GUID:a953053e80bb4f599f6a51d42532f103",
+        "GUID:f06f28e7a0d24ff18d1b4e4acec49d4d",
+        "GUID:20dae770e55946b9b518a7ac3ae5f0c0",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

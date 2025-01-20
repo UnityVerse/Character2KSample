@@ -1,0 +1,33 @@
+{
+    "name": "Game",
+    "rootNamespace": "Game",
+    "references": [
+        "Atomic.Entities",
+        "Atomic.Elements",
+        "Atomic.Contexts",
+        "Atomic.UI",
+        "Atomic.Extensions",
+        "Modules.Input",
+        "Cinemachine",
+        "Unity.Mathematics",
+        "Unity.TextMeshPro",
+        "Atomic.AI.BehaviourTree",
+        "Modules.Gameplay.CellStorage",
+        "Modules.Gameplay.ProductionTimer",
+        "Modules.Extensions",
+        "Modules.Gameplay.PointSlots",
+        "Mathematics",
+        "Modules.Gameplay.Rendering",
+        "Modules.Gameplay.UnitGroups",
+        "Modules.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

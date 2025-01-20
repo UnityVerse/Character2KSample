@@ -1,0 +1,16 @@
+{
+    "name": "Modules.GameCycle",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a953053e80bb4f599f6a51d42532f103"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

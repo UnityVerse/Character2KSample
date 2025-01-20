@@ -1,0 +1,13 @@
+{
+    "name": "Modules.Gameplay.Pool",
+    "rootNamespace": "Modules.Gameplay",
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
